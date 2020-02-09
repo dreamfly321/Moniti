@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TrafficClient</string>
+    <string name="login">login</string>
+    <string name="language">language</string>
+    <string name="input_username">input username</string>
+    <string name="input_password">input password</string>
+    <string name="register_new">register new</string>
+    <string name="get_back">get back password</string>
+    <string-array name="carid">
+        <item>小车1号</item>
+        <item>小车2号</item>
+        <item>小车3号</item>
+        <item>小车4号</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>时间升序</item>
+        <item>时间降序</item>
+    </string-array>
+
+    <string-array name="news">
+        <item>全部</item>
+        <item>光照阈值</item>
+        <item>账户阈值</item>
+        <item>道路状态</item>
+    </string-array>
+
+</resources>

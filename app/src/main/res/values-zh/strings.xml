@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrafficClient</string>
+    <string name="get_back">找回密码</string>
+    <string name="input_password">请输入密码</string>
+    <string name="input_username">请输入用户名</string>
+    <string name="language">语言</string>
+    <string name="login">登录</string>
+    <string name="register_new">注册新账户</string>
+</resources>
